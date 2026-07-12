@@ -1,0 +1,11 @@
+# large binaries / data — regenerate or download (see data/README.md)
+*.pt
+*.ckpt
+data/*.csv
+data/*.tsv
+data/*.fa
+data/*.fai
+*.zip
+__pycache__/
+*.pyc
+.venv/
