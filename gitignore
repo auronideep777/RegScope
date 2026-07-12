@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+node_modules/
+*.tmp
+*.log
+# large model weights — attach as a GitHub Release or Zenodo, do not commit
+model/weights/
+*.pt
+*.pth
+*.h5
+*.ckpt
