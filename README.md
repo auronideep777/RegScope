@@ -75,9 +75,6 @@ Every structural feature is a fast, transparent model with a documented path to 
 
 Deng C, et al. (senior authors Ahituv N, Pollard KS, Nowakowski TJ). *Massively parallel characterization of regulatory elements in the developing human cortex.* Science. 2024;384(6698):eadh0559. https://doi.org/10.1126/science.adh0559 — see `data/README.md` for how to obtain the activity table (S1) and variant library (S2).
 
-## Authors
-
-Auroni Deep · Himanshu Shekhar
 
 ## License
 
