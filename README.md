@@ -6,7 +6,7 @@ RegulatoryScope is a browser-based suite that pairs a trained sequence-to-activi
 
 Built for the Built-with-Claude: Life Sciences (Gladstone) research track on the Deng et al. developing human cortex MPRA (*Science* 2024, eadh0559).
 
-**Created by Auroni Deep and Himanshu Shekhar.**
+**Created by Ash0723.**
 
 ---
 
